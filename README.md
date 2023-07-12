@@ -49,11 +49,11 @@
   </a>
 </p> -->
 
-<a> 
+<!-- <a> 
     <a href="https://github.com/Linen220"><img alt="Linen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Linen220&show_icons=true&count_private=true&theme=react&border_color=6D67E4&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Linen220"><img alt="Linen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Linen220&langs_count=8&layout=compact&theme=react&border_color=6D67E4&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</a> -->
 
 <!-- ![Linen's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Linen220&custom_title=Linen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6D67E4&line=6D67E4&point=6D67E4&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
 <br>
